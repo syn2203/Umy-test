@@ -1,5 +1,5 @@
 {
-  "url": "https://mobile.umy.com",
+  "url": "umy://tonconnect",
   "name": "Umy",
   "iconUrl": "https://mobile.umy.com/logo.png?20250228",
   "returnUrl": {
