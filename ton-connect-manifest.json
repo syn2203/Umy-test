@@ -3,7 +3,7 @@
   "name": "Umy",
   "iconUrl": "https://mobile.umy.com/logo.png?20250228",
   "returnUrl": {
-    "android": "umy://tonconnect",
-    "ios": "umy://tonconnect"
+    "android": "umy://",
+    "ios": "umy://"
   }
 }
